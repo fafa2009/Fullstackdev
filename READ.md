@@ -1,3 +1,4 @@
 HI
 
-tHIS IS A READ.M E
+tHIS IS A READ.M 
+Thisis fardil's readmeE
